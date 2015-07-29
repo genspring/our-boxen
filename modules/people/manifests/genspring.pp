@@ -1,6 +1,7 @@
 class people::genspring {
 
-include zsh
 include vagrant
+include vagrant_manager
+include java
 
 }
